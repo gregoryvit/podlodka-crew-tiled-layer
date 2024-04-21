@@ -2,6 +2,8 @@
 
 Материалы с доклада "Преодолевая границы видимого c CATiledLayer" для Podlodka Crew #13
 
+[🎥 Session: "Преодолевая границы видимого с CATiledLayer"](https://youtu.be/W-S49u_JBxs)
+
 ## 📚 Materials
 
 ### Core Animation
